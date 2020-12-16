@@ -1,0 +1,13 @@
+D:\Visual studio 项目\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+D:\Visual studio 项目\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+D:\Visual studio 项目\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+D:\Visual studio 项目\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+D:\Visual studio 项目\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+D:\Visual studio 项目\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+D:\Visual studio 项目\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+D:\Visual studio 项目\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+D:\Visual studio 项目\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+D:\Visual studio 项目\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+D:\Visual studio 项目\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+D:\Visual studio 项目\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+D:\Visual studio 项目\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
